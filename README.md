@@ -10,5 +10,5 @@
 
 ## Getting Started
 
-Clone this project using Command Line and git Command .
+Clone this project using Command Line and git Command . <br><br>
 Build  the project by change directory to the Project folder and run the command : flutter run
