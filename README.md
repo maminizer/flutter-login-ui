@@ -1,6 +1,6 @@
 # Login UI 
 
-## this project is dedicated to mainly to implement Clipper and assign a Path as Custom Class.
+## this project is dedicated mainly to implement Clipper and assign a Path as Custom Class.
 
 ### Home Screen :
 <img src="https://scontent.ftun1-1.fna.fbcdn.net/v/t1.15752-9/74265361_1155150338208122_890875280611082240_n.jpg?_nc_cat=101&_nc_oc=AQlOBKxiJSLG8_qvjSsXURsJgzER3wgFsFXQClwu-uVHO0GqncAIuGx7eu01jy2FJsw&_nc_ht=scontent.ftun1-1.fna&oh=3634a1b183f6fbcf7072918156ab03aa&oe=5E8A02CC"> 
